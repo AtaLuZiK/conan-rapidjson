@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AtaLuZiK/conan-g3log.svg?branch=testing%2F1.3.2)](https://travis-ci.org/AtaLuZiK/conan-g3log)
+[![Build status](https://ci.appveyor.com/api/projects/status/3li2lfv25ebnq1xg?svg=true)](https://ci.appveyor.com/project/AtaLuZiK/conan-rapidjson)
 [![Build status](https://ci.appveyor.com/api/projects/status/3li2lfv25ebnq1xg?svg=true)](https://ci.appveyor.com/project/AtaLuZiK/conan-rapidjson)
 
 # conan-rapidjson
